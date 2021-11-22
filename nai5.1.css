@@ -1,0 +1,40 @@
+.box1 {
+    float: left;
+    background-color:pink;
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid, pink; 
+    text-align: justify;
+}
+.box2 {
+    float: left;
+    background-color: plum;
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid, plum; 
+    text-align: justify;
+}
+.box3 {
+    float: left;
+    background-color:palegoldenrod;
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid, palegoldenrod; 
+    text-align: justify;
+}
+.box4 {
+    float: left;
+    background-color: palegreen;
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid, palegreen; 
+    text-align: justify;
+} 
